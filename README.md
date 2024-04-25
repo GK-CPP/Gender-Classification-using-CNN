@@ -58,7 +58,7 @@ pip install tensorflow keras numpy matplotlib opencv-python jupyter
 
 ## Author
 
-Gulam Kibria Chowdhury
-Software Developer || Competitive Programmer
-Sylhet, Bangladesh
-Gmail: gkchowdhury101@gmail.com
+Gulam Kibria Chowdhury<br>
+Software Developer || Competitive Programmer<br>
+Sylhet, Bangladesh<br>
+Gmail: gkchowdhury101@gmail.com<br>
